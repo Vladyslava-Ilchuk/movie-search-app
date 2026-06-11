@@ -68,5 +68,3 @@ This project follows secure development practices:
 5. Statistics module aggregates usage data  
 
 ---
-
-## 📁 Project Structure
