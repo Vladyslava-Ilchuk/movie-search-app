@@ -1,6 +1,7 @@
 # movie-search-app
 # 🎬 Interactive console app for film search using Python, MySQL (Sakila), MongoDB
 
+
 ## 📌 Overview
 
 This project is an interactive console-based application developed for querying and analyzing film data using the **Sakila MySQL database**.
@@ -54,8 +55,6 @@ This project follows secure development practices:
 
 - No hardcoded credentials
 - Environment variables used for database configuration
-- `.gitignore` excludes sensitive files such as `.env`
-- Safe database connection handling
 
 ---
 
